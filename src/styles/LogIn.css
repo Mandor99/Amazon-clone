@@ -1,0 +1,68 @@
+.login {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.login__form {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 2rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    box-shadow: 0 5px 5px rgba(0,0,0,.2);
+    width: 300px;
+}
+@media all and (max-width: 500px) {
+    .login__form {
+        padding: 5rem 5rem;
+        /* gap: 2.5rem; */
+    }
+}
+.login__logo {
+    text-align: center;
+}
+.login__logo--pic {
+    width: 10rem;
+    transform: scale(1.5);
+}
+.login__form--heading {
+    text-transform: capitalize;
+    font-size: 2rem;
+}
+.login__conditions {
+    font-size: .8rem;
+}
+@media all and (max-width: 500px) {
+    .login__conditions {
+        font-size: 1rem;
+    }
+}
+.login__formInput--wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: .3rem;
+}
+
+.login__form--title {
+    font-size: .8rem;
+}
+@media all and (max-width: 500px) {
+    .login__form--title {
+        font-size: 1rem;
+    }
+}
+.login__form--input {
+    padding: .3rem .5rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    /* font-size: .8rem; */
+    outline: none;
+    font-weight: 500;
+}
+::placeholder {
+    /* font-size: 1rem; */
+}

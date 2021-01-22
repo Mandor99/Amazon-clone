@@ -1,0 +1,17 @@
+.subTotal {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.subTotalPrice {
+    font-size: .9rem;
+    font-weight: normal;
+}
+.subTotalGift {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.subTotal__btn {
+    font-size: .8rem;
+}

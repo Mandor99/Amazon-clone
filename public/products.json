@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "LG 24LM520D-WU 24 Inch HD TV Monitor with Remote Control (2019), White",
+            "price": 128,
+            "image": "https://m.media-amazon.com/images/I/71R3F6KCRIL._AC_UY218_.jpg",
+            "rate": 4
+        },
+        {
+            "id": 2,
+            "name": "Dell P2RF6 OptiPlex 5050 Small Form Factor Desktop, Intel Core i5-7500, 8GB RAM, 128GB SSD, Black",
+            "price": 540,
+            "image": "https://m.media-amazon.com/images/I/41QztBTooxL._AC_SY200_.jpg",
+            "rate": 5
+        },
+        {
+            "id": 3,
+            "name": "HP Chromebook 14-inch HD Laptop, Intel Celeron N4000, 4 GB RAM, 32 GB eMMC, Chrome (14a-na0010nr, Mineral Silver)",
+            "price": 364,
+            "image": "https://m.media-amazon.com/images/I/81LaRDm7leL._AC_UY218_.jpg",
+            "rate": 5
+        },
+        {
+            "id": 4,
+            "name": "RUNMUS Gaming Headset Xbox One Headset with 7.1 Surround Sound, PS4 Headset with Noise Canceling Mic & LED Light",
+            "price": 70,
+            "image": "https://m.media-amazon.com/images/I/41VbT96pAWL._AC_SY200_.jpg",
+            "rate": 3
+        },
+        {
+            "id": 5,
+            "name": "Wild Game: My Mother, Her Secret, and Me",
+            "price": 25,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/413kTDJpUKL._AC_SX184_.jpg",
+            "rate": 4
+        },
+        {
+            "id": 6,
+            "name": "Gildan Men's Ultra Cotton Long Sleeve T-Shirt, Style G2400, 2-Pack",
+            "price": 70,
+            "image": "https://m.media-amazon.com/images/I/817hvrli8dL._AC_UL320_.jpg",
+            "rate": 5
+        },
+        {
+            "id": 7,
+            "name": "Century Star Womens Fuzzy Hoodies Pullover Cozy Oversized Pockets Hooded Sweatshirt Athletic Fleece Hoodies",
+            "price": 100,
+            "image": "https://m.media-amazon.com/images/I/71f-0WDx5oL._AC_UL320_.jpg",
+            "rate": 5
+        },
+        {
+            "id": 8,
+            "name": "Jumping Beans Girls 4-12 Spirit Riding Free Wild Heart Spirit Graphic Tee",
+            "price": 50,
+            "image": "https://m.media-amazon.com/images/I/91M8U+H7VLL._AC_UL320_.jpg",
+            "rate": 4
+        },
+        {
+            "id": 9,
+            "name": "Kind Of Blue (Vinyl) Kind Of Blue (Vinyl)",
+            "price": 20,
+            "image": "https://m.media-amazon.com/images/I/81CP1j-zprL._AC_UY218_.jpg",
+            "rate": 5
+        },
+        {
+            "id": 10,
+            "name": "Foot Circulation Plus (FSA or HSA Eligible) - Medic Foot Massager Machine with TENS Unit, EMS (Electrical Muscles Stimulator) Feet Legs Health for Neuropathy, Diabetes, Relieve Pains and Cramps, RLS",
+            "price": 199,
+            "image": "https://m.media-amazon.com/images/I/61QlQ7XdyJL._AC_UL320_.jpg",
+            "rate": 4
+        }
+    ]
+}
